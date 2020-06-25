@@ -1,0 +1,135 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+
+.header {
+    background-color: #f1f1f1;
+    padding: 15px;
+	
+}
+
+
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+
+.cs1
+{
+ float:right;
+ background-color:black;
+}
+
+.topnav .cs1 a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.topnav select:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn {
+	padding: 15px;
+}
+
+footer{
+    background-color: black;
+    padding: 20px 25px 270px 25px;
+}
+ .footer-top {
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+.f_location {
+    
+    float: left;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+.f_customer {
+    
+  float: left;
+    color: white;
+    padding: 14px 60px;
+    text-decoration: none;
+  
+}
+
+.f_contact {
+    
+  float: right;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+  
+}
+.h3color{
+  color: grey;
+}
+
+#sel1
+{
+	text-align:center;
+	font-size:17px;
+	float:right;
+	height:50px;
+	background-color:black;
+	color:white;
+	border:1px black solid;
+}
+#f1
+{
+	margin-top:20px;
+	margin-left:550px;
+	width:250px;
+	height:30px;
+	border-radius: 5px;
+}
+#b1
+{
+  	width:80px;
+	height:30px;
+
+}
